@@ -1,0 +1,27 @@
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\bin\Debug\ООПлаба2.exe.config
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\bin\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\bin\Debug\ООПлаба2.pdb
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.Form1.resources
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.Properties.Resources.resources
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООПлаба2\ООПлаба2\obj\Debug\ООПлаба2.pdb
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\bin\Debug\ООПлаба2.exe.config
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\bin\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\bin\Debug\ООПлаба2.pdb
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.Form1.resources
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.Properties.Resources.resources
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООП лаба 2\ООПлаба2\obj\Debug\ООПлаба2.pdb
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\bin\Debug\ООПлаба2.exe.config
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\bin\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\bin\Debug\ООПлаба2.pdb
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.Form1.resources
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.Properties.Resources.resources
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.exe
+C:\Users\ACER\source\repos\ООП лаба 2.2\ООП лаба 2.1\ООПлаба2\obj\Debug\ООПлаба2.pdb
